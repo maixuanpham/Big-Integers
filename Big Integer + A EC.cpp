@@ -1,8 +1,8 @@
-/*  Program:			MSVS 2012/2015
-	Author:				Mai Pham
-	Class:				CSCI 140
-	Date:				04/13/2017
-	Description:		Project 2 - Big Integers + A EC
+/*  	Program:		MSVS 2012/2015
+	Author:			Mai Pham
+	Class:			CSCI 140
+	Date:			04/13/2017
+	Description:		Project 2: Big Integers + A EC
 	I certify that the code below is my own work.
 	Exception(s): N/A
 */
